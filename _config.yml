@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: About Me
 email: chenjingru2022@126.com
-description: >- I'm now a senior student in Wuhan University, majoring in information management and information system, welcome to know more about me!
+description: I'm now a senior student in Wuhan University, majoring in information management and information system, welcome to know more about me!
 twitter_username: JEANNNNIE
 github_username: JEANNNNIE
 minimal_mistakes_skin: default
