@@ -1,14 +1,15 @@
 ---
-title: "Post: Modified Date"
-last_modified_at: 2016-03-09T16:20:02-05:00
+title: "基于个性化知识地图的交互式信息检索系统研究—从用户认知的角度"
+end_at: 2016-03-09T16:20:02-05:00
 categories:
-  - Blog
+  - user research
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - information retrieval
+  - 国家自然科学基金科研项目
 ---
 
-This post has been updated and should show a modified date if used in a layout.
+优化已有搜索系统，提高搜索系统对用户学习的支持，从而提高用户在信息检索中的学习效率。
 
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
+系统开发：分别用前端开发语言JavaScript、Html、CSS，后端开发语言Python，以jsMind.js、Bootstrap框架前端开发框架，以Django3.0为后台开发框架，在Ubuntu操作系统、MySQL 数据库管理系统以及uWSGi、nginx web服务器上，开发了⼀个融合知识地图的检索系统，可以实时与原检索系统联动⽣成可交互搜索结果知识地图。
+实验：招募40个实验对象，要求其分别运用现有检索系统和融⼊知识地图的检索系统，并在检索结束后完成难度不同的题目，并进行用户访谈。
+数据分析：用SPSS对数据进行显著性分析和因子分析，结果显示融入知识地图对用户学习效果产生了启发式的影响，对信息检索系统建设具有指导作用。
