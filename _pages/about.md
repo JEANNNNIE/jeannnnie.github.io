@@ -1,8 +1,11 @@
 ---
 permalink: /about/
-title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+## Education
+### Wuhan University
+**Bachelor of Management  in Information Management and Information System**
++ GPA: 3.85/4.0   Average Score: 90.36%   Class Rank: 5/65
++ All the mathematics courses were scored above 95%; all the programming courses were scored above 90%
++ Third-class scholarship in the academic year 2019-2020
++ Merit Student Award in the academic year 2019-2020
