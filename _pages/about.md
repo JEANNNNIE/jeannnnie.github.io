@@ -12,7 +12,7 @@ title: "Profile"
 + Merit Student Award in the academic year 2019-2020
 
 ## PUBLICATIONS
-+ [1]Ping Liu, Zhiwei Yang, Jingru Chen, and Xiang Shi. [A Study on Knowledge Maps Effecting on Individual Learning Outcomes in Exploratory Search. Information studies: Theory & Application](https://jeannnnie.github.io/user%20research/kmap_information_retrieval_system). In press
++ [1]Ping Liu, Zhiwei Yang, **Jingru Chen**, and Xiang Shi. [A Study on Knowledge Maps Effecting on Individual Learning Outcomes in Exploratory Search. Information studies: Theory & Application](https://jeannnnie.github.io/user%20research/kmap_information_retrieval_system). In press
 
 ## WORK EXPERIENCE
 + Midea Group, Backend Python Developer intern
