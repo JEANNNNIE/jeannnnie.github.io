@@ -78,8 +78,10 @@ author:
       url: "mailto:"
     - label: *phone  # "Phone"
       icon: "fa fa-fw fa-phone"
+      url: ""
     - label: *address  # "Address"
       icon: "fa fa-fw fa-home"
+      url: ""
 
 footer:
   links:
@@ -97,8 +99,10 @@ footer:
       url: "mailto:"
     - label: *phone  # "Phone"
       icon: "fa fa-fw fa-phone"
+      url: ""
     - label: *address  # "Address"
       icon: "fa fa-fw fa-home"
+      url: ""
 
 defaults:
   # _posts
