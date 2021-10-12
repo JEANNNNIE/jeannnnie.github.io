@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jennie's Space
-email: chenjingru2022@126.com
-phone: +86 13476097658
-address: 2502-2-13, Wanke Shuijingcheng, Dengzhou Village, Shude District, Foshan City, 528314, China
+email: &email chenjingru2022@126.com
+phone: &phone +86 13476097658
+address: &address 2502-2-13, Wanke Shuijingcheng, Dengzhou Village, Shude District, Foshan City, 528314, China
 description: I'm now a senior student in Wuhan University, majoring in information management and information system, welcome to know more about me!
 # twitter_username:
 # github_username:
@@ -73,12 +73,12 @@ author:
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
-    - label: "Email"
+    - label: *email  # "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:"
-    - label: "Phone"
+    - label: *phone  # "Phone"
       icon: "fa fa-fw fa-phone"
-    - label: "Address"
+    - label: *address  # "Address"
       icon: "fa fa-fw fa-home"
 
 footer:
@@ -92,15 +92,13 @@ footer:
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
-    - label: "Email"
+    - label: *email  # "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:"
-    - label: "Phone"
+    - label: *phone  # "Phone"
       icon: "fa fa-fw fa-phone"
-      url: ""
-    - label: "Address"
+    - label: *address  # "Address"
       icon: "fa fa-fw fa-home"
-      url: ""
 
 defaults:
   # _posts
