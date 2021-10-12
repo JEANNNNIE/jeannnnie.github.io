@@ -13,8 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: About Me
+title: Jennie's Space
 email: chenjingru2022@126.com
+phone: +86 13476097658
+address: 2502-2-13, Wanke Shuijingcheng, Dengzhou Village, Shude District, Foshan City, 528314, China
 description: I'm now a senior student in Wuhan University, majoring in information management and information system, welcome to know more about me!
 twitter_username: JEANNNNIE
 github_username: JEANNNNIE
@@ -57,7 +59,7 @@ plugins:
 author:
   name   : "Jingru Chen"
   avatar : "/assets/images/myphoto.jpg"
-  bio    : "A senior student in Wuhan University,majoring in information management and information system"
+  bio    : "Live beautifully, dream passionately, love completely."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -71,6 +73,13 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:"
+    - label: "Phone"
+      icon: "fa fa-fw fa-phone"
+    - label: "Address"
+      icon: "fa fa-fw fa-home"
 
 footer:
   links:
@@ -83,6 +92,13 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:"
+    - label: "Phone"
+      icon: "fa fa-fw fa-phone"
+    - label: "Address"
+      icon: "fa fa-fw fa-home"
 
 defaults:
   # _posts
