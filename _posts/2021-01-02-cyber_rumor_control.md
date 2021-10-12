@@ -1,11 +1,12 @@
 ---
-title: "大数据支持的网络谣言治理"
+title: "The Interdisciplinary Project “Cyber-Rumor Control Supported by Big data”"
 categories:
   - computer techniques
 tags:
   - machine learning
   - deep learning
-  - website develop
+  - website development
+  - python
 link: http://39.97.189.74:5000/
 ---
 

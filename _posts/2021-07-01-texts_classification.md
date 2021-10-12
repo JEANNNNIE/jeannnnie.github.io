@@ -3,7 +3,6 @@ title: "Classifying Documents with Large-texts Based on RNN&BERT"
 categories:
   - computer techniques
 tags:
-  - machine learning
   - deep learning
   - python
 ---

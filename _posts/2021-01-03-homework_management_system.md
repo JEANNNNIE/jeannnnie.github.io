@@ -1,10 +1,11 @@
 ---
-title: "作业管理系统"
+title: Online Homework Management System
 categories:
   - computer techniques
 tags:
   - information system
-  - website develop
+  - website development
+  - python
 link: https://www.homewk.cn/
 ---
 

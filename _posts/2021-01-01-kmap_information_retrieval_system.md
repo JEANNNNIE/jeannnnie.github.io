@@ -1,10 +1,9 @@
 ---
-title: "基于个性化知识地图的交互式信息检索系统研究—从用户认知的角度"
+title: "A study  on Interactive Information Retrieval System on the basis of  Personalized Knowledge Map from the User-based  Cognitive Perspective"
 categories:
   - user research
 tags:
   - information retrieval
-  - 国家自然科学基金科研项目
 ---
 
 优化已有搜索系统，提高搜索系统对用户学习的支持，从而提高用户在信息检索中的学习效率。
