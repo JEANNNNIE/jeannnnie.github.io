@@ -281,7 +281,7 @@
 
   .archive__item-body {
     padding-left: gutter(1 of 12);
-    /*padding-right: gutter(1 of 12);*/
+    padding-right: gutter(1 of 12);
   }
 
   a.btn::before {
@@ -328,7 +328,7 @@
       .archive__item-body {
         float: right;
         padding-left: gutter(0.5 of 12);
-        /*padding-right: gutter(1 of 12);*/
+        padding-right: gutter(1 of 12);
         width: span(7 of 12);
       }
     }
@@ -372,7 +372,7 @@
         float: left;
         width: span(7 of 12);
         padding-left: gutter(0.5 of 12);
-        /*padding-right: gutter(1 of 12);*/
+        padding-right: gutter(1 of 12);
       }
     }
   }
@@ -445,11 +445,11 @@
   .wide {
   .archive {
     @include breakpoint($large) {
-      /*padding-right: 0;*/
+      padding-right: 0;
     }
 
     @include breakpoint($x-large) {
-      /*padding-right: 0;*/
+      padding-right: 0;
     }
   }
 }
