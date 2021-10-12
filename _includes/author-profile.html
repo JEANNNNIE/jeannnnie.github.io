@@ -51,23 +51,23 @@
         <li>
           <a href="mailto:{{ author.email }}" rel="me" class="u-email">
             <!--meta itemprop="email" content="{{ author.email }}" /-->
-            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">{{ <!--site.data.ui-text[site.locale].email_label--> author.email | default: "Email" }}</span>
+            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">{{ author.email<!--site.data.ui-text[site.locale].email_label  | default: "Email"--> }}</span>
           </a>
         </li>
       {% endif %}
 
       {% if author.phone %}
         <li>
-          <a>
-            <i class="fa fa-fw fa-phone" aria-hidden="true"></i><span class="label">{{ author.phone | default: "Phone" }}</span>
+          <a rel="me">
+            <i class="fa fa-fw fa-phone" aria-hidden="true"></i><span class="label">{{ author.phone }}</span>
           </a>
         </li>
       {% endif %}
 
       {% if author.address %}
         <li>
-          <a>
-            <i class="fa fa-fw fa-home" aria-hidden="true"></i><span class="label">{{ author.address | default: "Address" }}</span>
+          <a rel="me">
+            <i class="fa fa-fw fa-home" aria-hidden="true"></i><span class="label">{{ author.address }}</span>
           </a>
         </li>
       {% endif %}
