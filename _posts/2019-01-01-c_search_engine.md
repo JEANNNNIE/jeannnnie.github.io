@@ -11,11 +11,11 @@ The search engine can quickly traverse a large number of documents, and quickly 
 
 ## query terms input mode
 + manual  
-  ![avatar](../assets/images/c_search_engine/1.png)
+  ![avatar](/assets/images/c_search_engine/1.png)
 + script  
   realize bulk search  
   (pic 2)  
-  ![avatar](../assets/images/c_search_engine/3.png)
+  ![avatar](/../assets/images/c_search_engine/3.png)
   
 ## search mode
 + default search  
