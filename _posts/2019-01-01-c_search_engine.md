@@ -18,7 +18,7 @@ The search engine can quickly traverse a large number of documents, and quickly 
   ![avatar](/assets/images/c_search_engine/3.png){:width="700px"}  
   
 ## search mode
-+ **default search** 
++ **default search**  
   return documents contain at least one query term
 + **exact search**  
   return documents contain all the query terms  
