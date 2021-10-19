@@ -13,7 +13,7 @@ We realized visualization with Gephi as below.
 ## Among China (province as unit)  
 + Fruchterman Reingold layout  
   ![avatar](/assets/images/covid19_spread/1.png){:width="700px"}  
-+ atlas layout  
++ Atlas layout  
   ![avatar](/assets/images/covid19_spread/2.png){:width="700px"}
   
 ## Among China (city as unit)  
@@ -32,7 +32,7 @@ We realized visualization with Gephi as below.
 + Circular layout  
   ![avatar](/assets/images/covid19_spread/7.png){:width="700px"}  
 + Atlas layout  
-  ![avatar](/assets/images/778_prototype/8.png){:width="700px"}
+  ![avatar](/assets/images/covid19_spread/8.png){:width="700px"}
   
 ## Dynamic figures
 + Among China (province as unit)  
