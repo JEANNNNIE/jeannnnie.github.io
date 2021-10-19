@@ -14,19 +14,19 @@ We realized visualization with Gephi as below.
 + Fruchterman Reingold layout  
   ![avatar](/assets/images/covid19_spread/1.png){:width="700px"}  
 + atlas layout  
-  ![avatar](/assets/images/778_prototype/2.png){:width="700px"}
+  ![avatar](/assets/images/covid19_spread/2.png){:width="700px"}
   
 ## Among China (city as unit)  
 + Fruchterman Reingold layout  
   ![avatar](/assets/images/covid19_spread/3.png){:width="700px"}  
-+ atlas layout  
-  ![avatar](/assets/images/778_prototype/4.png){:width="700px"}
++ Atlas layout  
+  ![avatar](/assets/images/covid19_spread/4.png){:width="700px"}
   
 ## Whole world (country as unit)  
 + Fruchterman Reingold layout  
   ![avatar](/assets/images/covid19_spread/5.png){:width="700px"}  
-+ atlas layout  
-  ![avatar](/assets/images/778_prototype/6.png){:width="700px"}
++ Atlas layout  
+  ![avatar](/assets/images/covid19_spread/6.png){:width="700px"}
   
 ## Under background perspective focus on China  
 + Circular layout  
