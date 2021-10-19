@@ -6,7 +6,7 @@ tags:
   - C language
   - application development
 ---
-(pic 0)
+![avatar](/assets/images/c_search_engine/0.png){:width="700px"}  
 The search engine can quickly traverse a large number of documents, and quickly return documents that meet the conditions according to query terms and search patterns, and support sorting documents based on total number/number of keywords.
 
 ## query terms input mode
@@ -14,7 +14,7 @@ The search engine can quickly traverse a large number of documents, and quickly 
   ![avatar](/assets/images/c_search_engine/1.png){:width="700px"}  
 + **script**  
   realize bulk search  
-  (pic 2)  
+  ![avatar](/assets/images/c_search_engine/2.png){:width="700px"}  
   ![avatar](/assets/images/c_search_engine/3.png){:width="700px"}  
   
 ## search mode
