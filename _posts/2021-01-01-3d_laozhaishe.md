@@ -9,7 +9,7 @@ We used SolidWorks to design a 3D model of a cultural and creative product named
 We produced a real product by printing the model with a 3D printing machine.  
 
 ## Source of designing idea
-Wuhan University's distinctive 
+Wuhan University's distinctive students' dormitories  
 ![avatar](/assets/images/3d_laozhaishe/1.png){:width="700px"}  
 
 ## Main components
