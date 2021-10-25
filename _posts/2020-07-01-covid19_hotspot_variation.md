@@ -11,7 +11,7 @@ tags:
 
 ## Academic hotspot
 ### Co-occurrence analysis of paper keywords
-+ Visualization
++ Visualization  
 ![avatar](/assets/images/covid19_hotspot_variation/1.png){:width="700px"}  
 + Community detection  
 
@@ -33,10 +33,11 @@ tags:
 | 14 | Social management | management, diversion | 7 |
 | 15 | Telemedicine | hygiene, e-care, resource allocation | 10 |
 | 16 | Infection symptoms | anorexia,  E. N. T. , olfactory dysfunction | 5.2 |
+
 ### Citation network analysis
-+ Visualization
++ Visualization  
 ![avatar](/assets/images/covid19_hotspot_variation/2.png){:width="700px"}  
-+ Corresponding paper
++ Corresponding paper  
 
 | 编号 | 文献名（译成中文） | 子领域 |
 | --- | --- | --- |
@@ -56,7 +57,7 @@ tags:
 
 ## Social hotspot
 ### Co-occurrence analysis of words in tweets
-+ Visualization
++ Visualization  
 ![avatar](/assets/images/covid19_hotspot_variation/3.png){:width="700px"}  
 + Community detection  
 
@@ -70,6 +71,7 @@ tags:
 | 6 | Events affected by COVID-19 | 2020, the Olympic Games, Tokyo, blocked, postponed | 3.15 |
 | 7 | social assistance | saves, gives support, and provides | 3.04 |
 | 8 | Medical resources for epidemic prevention | masks, supply, medical treatment, community, n95, equipment | 2.57 |
+
 ### Time-sync dynamic network
 + Visualization  
 ![avatar](/assets/images/covid19_hotspot_variation/4.png "3.22"){:width="300px"}
