@@ -15,7 +15,7 @@ We crawled data of 6378 literary works.
 ![avatar](/assets/images/mobile_reading_platform/1.png){:width="700px"}  
 + Chapter payment  
 We crawled nearly 900 thousand payment records.  
-![avatar](/assets/images/mobile_reading_platform/2.png){:width="700px"}  
+![avatar](/assets/images/mobile_reading_platform/2.png){:width="400px"}  
 + Comments   
 We crawled more than 1.2 million comments.  
 ![avatar](/assets/images/mobile_reading_platform/3.png){:width="700px"}  
@@ -25,8 +25,8 @@ First, second and third order regression was performed using the Ridge, Lasso, L
 + Results  
 ![avatar](/assets/images/mobile_reading_platform/4.png){:width="700px"}  
 + The best regression coefficient of each factor  
-![avatar](/assets/images/mobile_reading_platform/5.png){:width="700px"}  
+![avatar](/assets/images/mobile_reading_platform/5.png){:width="500px"}  
 log 10  
-![avatar](/assets/images/mobile_reading_platform/6.png){:width="700px"}  
+![avatar](/assets/images/mobile_reading_platform/6.png){:width="500px"}  
 
 ## Cluster analysis

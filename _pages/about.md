@@ -28,7 +28,7 @@ title: "Profile"
 3. [Using C Language to Develop the Large-text Sets Search Engine](https://jeannnnie.github.io/computer%20techniques/c_search_engine)
 4. [Online Visual Content Analysis on Bullet-screen Comments](https://jeannnnie.github.io/data%20analysis/TSCs_visualization)
 5. [Cultural and Creative 3D Designing for Laozhaishe (WHU students' dormitory building)](https://jeannnnie.github.io/design/3d_laozhaishe)
-6. [A Study on the Guidance of Charged Mobile Reading Platform Development](https://jeannnnie.github.io/data%20analysis/mobile_reading_flatform)
+6. [A Study on the Guidance of Charged Mobile Reading Platform Development](https://jeannnnie.github.io/data%20analysis/mobile_reading_platform)
 7. [Analysis of the Epidemic’s Spread  and  Change via Public Transportation based on Close Contact Tracing Data](https://jeannnnie.github.io/data%20analysis/covid19_spread)
 8. [A General Overview of Study Abroad - Data Visualization Report](https://jeannnnie.github.io/data%20analysis/international_students_netflow)
 9. [Prototype Design of "Seven Seven Eight" Food App](https://jeannnnie.github.io/user%20research/778_prototype) [🔗](https://26d48v.axshare.com/)
