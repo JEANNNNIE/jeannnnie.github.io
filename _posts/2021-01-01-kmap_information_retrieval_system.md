@@ -17,7 +17,7 @@ support for improving the design of human-computer interaction function in explo
 Keywords: Exploratory search; Knowledge map; Learning outcome; SOLO taxonomy evaluation
 
 ## Designed knowledge map retrieval system  
-![avatar](/assets/images/kmap_information_retrieval_system/1.png){:width="700px"}  
+![avatar](/assets/images/kmap_information_retrieval_system/1.png){:width="900px"}  
 
 ## Results and analysis
 + Results  
