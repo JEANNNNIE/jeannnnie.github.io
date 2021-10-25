@@ -20,7 +20,7 @@ Keywords: Exploratory search; Knowledge map; Learning outcome; SOLO taxonomy eva
 ![avatar](/assets/images/kmap_information_retrieval_system/1.png){:width="700px"}  
 
 ## Results and analysis
-+ results
++ Results  
 ![avatar](/assets/images/kmap_information_retrieval_system/2.png){:width="700px"}  
 + T test  
 ![avatar](/assets/images/kmap_information_retrieval_system/3.png){:width="700px"}  
