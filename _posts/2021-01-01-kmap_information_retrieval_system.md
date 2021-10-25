@@ -5,9 +5,22 @@ categories:
 tags:
   - information retrieval
 ---
+Abstract: [Purpose/significance] This study aims to identify the influence of knowledge map on individual learning 
+outcome under exploratory search situation,to optimize the design of the search system and to promote learning outcome. 
+[Method/process] A user experiment was conducted where several tasks were designed with varied level of difficulty. The 
+SOLO taxonomy evaluation method was used to compare the quality of learning in different types of tasks with and without 
+the support of knowledge map. [Result/conclusion] The results showed that knowledge map can improve the learning outcome
+of users in exploratory search situation, especially in helping users establish multi-point structure and association 
+structure. This finding is helpful to understand the role of knowledge map on users’ exploratory search and provides 
+support for improving the design of human-computer interaction function in exploratory search system.  
 
-优化已有搜索系统，提高搜索系统对用户学习的支持，从而提高用户在信息检索中的学习效率。
+Keywords: Exploratory search; Knowledge map; Learning outcome; SOLO taxonomy evaluation
 
-系统开发：分别用前端开发语言JavaScript、Html、CSS，后端开发语言Python，以jsMind.js、Bootstrap框架前端开发框架，以Django3.0为后台开发框架，在Ubuntu操作系统、MySQL 数据库管理系统以及uWSGi、nginx web服务器上，开发了⼀个融合知识地图的检索系统，可以实时与原检索系统联动⽣成可交互搜索结果知识地图。
-实验：招募40个实验对象，要求其分别运用现有检索系统和融⼊知识地图的检索系统，并在检索结束后完成难度不同的题目，并进行用户访谈。
-数据分析：用SPSS对数据进行显著性分析和因子分析，结果显示融入知识地图对用户学习效果产生了启发式的影响，对信息检索系统建设具有指导作用。
+## Designed knowledge map retrieval system  
+![avatar](/assets/images/kmap_information_retrieval_system/1.png){:width="700px"}  
+
+## Results and analysis
++ results
+![avatar](/assets/images/kmap_information_retrieval_system/2.png){:width="700px"}  
++ T test  
+![avatar](/assets/images/kmap_information_retrieval_system/3.png){:width="700px"}  
