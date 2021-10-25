@@ -16,14 +16,14 @@ link: https://www.homewk.cn/
 ### Functional design  
 ![avatar](/assets/images/homework_management_system/1.png){:width="700px"}  
 ### E-R diagram  
-![avatar](/assets/images/homework_management_system/1.png){:width="700px"}  
+![avatar](/assets/images/homework_management_system/2.png){:width="700px"}  
 
 ## Page design  
 ### Log in  
-![avatar](/assets/images/homework_management_system/1.png){:width="700px"}  
+![avatar](/assets/images/homework_management_system/3.png){:width="700px"}  
 ### Admin page  
-![avatar](/assets/images/homework_management_system/1.png){:width="700px"}  
+![avatar](/assets/images/homework_management_system/4.png){:width="700px"}  
 ### Teacher page  
-![avatar](/assets/images/homework_management_system/1.png){:width="700px"}  
+![avatar](/assets/images/homework_management_system/5.png){:width="700px"}  
 ### Students page  
-![avatar](/assets/images/homework_management_system/1.png){:width="700px"}
+![avatar](/assets/images/homework_management_system/6.png){:width="700px"}
