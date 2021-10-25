@@ -12,7 +12,8 @@ Compare different models, and explored different skills to improve model perform
 ## Base model structure
 ![avatar](/assets/images/news_POS_tagging/1.png){:width="450px"}  
 
-## Models comparison
+## Models comparison  
+
 | Model/strategy | Accuracy on test sets (descending order) |
 | --- | --- |
 | Bert | 0.9915 |

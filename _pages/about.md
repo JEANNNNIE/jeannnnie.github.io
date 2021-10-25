@@ -34,6 +34,8 @@ title: "Profile"
 9. [Prototype Design of "Seven Seven Eight" Food App](https://jeannnnie.github.io/user%20research/778_prototype) [🔗](https://26d48v.axshare.com/)
 10. [Analysis and Design of Property Management Information System in A Small Community](https://jeannnnie.github.io/computer%20techniques/property_management_information_system)
 11. [Part-Of-Speech Tagging for News Corpus Based on Deep Learning](https://jeannnnie.github.io/computer%20techniques/news_POS_tagging)
+12. [Analysis and network visualization of academic and social COVID-19 hotspot variations](https://jeannnnie.github.io/data%20analysis/covid19_hotspot_variation)
+13. [Network analysis and visualization of literary works of question and answering systems](https://jeannnnie.github.io/data%20analysis/q&a_system)
 
 ## EXTRACURRICULAR ACTIVITIES
 + Team Member, [Wechat Official Account of Cool TechSmart Python](https://jeannnnie.github.io/computer%20techniques/python_wechat_official_account) [🔗](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4MzE0NDExMQ==&uin=&key=&devicetype=Windows+10+x64&version=63030068&lang=zh_CN&a8scene=7&fontgear=2)
