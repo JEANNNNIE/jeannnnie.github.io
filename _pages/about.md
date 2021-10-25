@@ -27,7 +27,7 @@ title: "Profile"
 2. [Developing the Travel Route Recommendation System Rooted in Baidu Map in Java](https://jeannnnie.github.io/computer%20techniques/Java_route_recommendation)
 3. [Using C Language to Develop the Large-text Sets Search Engine](https://jeannnnie.github.io/computer%20techniques/c_search_engine)
 4. [Online Visual Content Analysis on Bullet-screen Comments](https://jeannnnie.github.io/data%20analysis/TSCs_visualization)
-5. [Cultural and Creative 3D Designing for Laozhaishe (WHU students' dormitory building)](https://jeannnnie.github.io/design/s3_laozhaishe)
+5. [Cultural and Creative 3D Designing for Laozhaishe (WHU students' dormitory building)](https://jeannnnie.github.io/design/3d_laozhaishe)
 6. [A Study on the Guidance of Charged Mobile Reading Platform Development](https://jeannnnie.github.io/data%20analysis/mobile_reading_flatform)
 7. [Analysis of the Epidemic’s Spread  and  Change via Public Transportation based on Close Contact Tracing Data](https://jeannnnie.github.io/data%20analysis/covid19_spread)
 8. [A General Overview of Study Abroad - Data Visualization Report](https://jeannnnie.github.io/data%20analysis/international_students_netflow)
