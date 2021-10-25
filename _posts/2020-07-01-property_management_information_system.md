@@ -14,16 +14,16 @@ implement intelligent management of communities, which applied IoT and 5g intern
 
 ## Functional module design
 ; TODO
-![avatar](/assets/images/property_management_information_system/1.png){:width="700px"}  
+![avatar](/assets/images/property_management_information_system/2.png){:width="700px"}  
 
 ## Implementation logical design (take intelligent entrance management module as example)
 + Use case diagram  
-![avatar](/assets/images/property_management_information_system/1.png){:width="700px"}  
+![avatar](/assets/images/property_management_information_system/3.png){:width="700px"}  
 + Structure chart
-![avatar](/assets/images/property_management_information_system/1.png){:width="700px"}  
+![avatar](/assets/images/property_management_information_system/4.png){:width="700px"}  
   
 ## Prototype design
-![avatar](/assets/images/property_management_information_system/1.png){:width="225px"}
-![avatar](/assets/images/property_management_information_system/1.png){:width="225px"}
-![avatar](/assets/images/property_management_information_system/1.png){:width="225px"}
-![avatar](/assets/images/property_management_information_system/1.png){:width="225px"}
+![avatar](/assets/images/property_management_information_system/5.png){:width="225px"}
+![avatar](/assets/images/property_management_information_system/6.png){:width="225px"}
+![avatar](/assets/images/property_management_information_system/7.png){:width="225px"}
+![avatar](/assets/images/property_management_information_system/8.png){:width="225px"}
