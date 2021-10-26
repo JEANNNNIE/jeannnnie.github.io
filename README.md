@@ -28,6 +28,7 @@ If you have a question about using Jekyll, start a discussion on the [Jekyll For
 
 # Usage Notebooks
 
+- [Sample](https://mmistakes.github.io/mm-github-pages-starter/)
 - [Quick start](https://blog.csdn.net/u010234516/article/details/103138868)
 - [Configuration manual](https://blog.csdn.net/yq_forever/article/details/104238235)
 - [Markdown merge cells](https://www.zhihu.com/question/50267650)
