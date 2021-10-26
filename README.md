@@ -25,3 +25,10 @@ If you have a question about using Jekyll, start a discussion on the [Jekyll For
 - [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
 - [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
 - [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+
+# Usage Notebooks
+
+- [Quick start](https://blog.csdn.net/u010234516/article/details/103138868)
+- [Configuration manual](https://blog.csdn.net/yq_forever/article/details/104238235)
+- [Markdown merge cells](https://www.zhihu.com/question/50267650)
+  - [Office table convert to html](http://pressbin.com/tools/excel_to_html_table/index.html)
