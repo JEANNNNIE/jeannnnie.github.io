@@ -18,47 +18,41 @@ tags:
       <td>Explanation for 2nd Class Index</td>
    </tr>
    <tr>
-      <td>Activity(A)</td>
+      <td rowspan="3">Activity(A)</td>
       <td>Number of Micro-blogs(A1)</td>
       <td>Number of Micro-blogs until 2020/5/20</td>
    </tr>
    <tr>
-      <td></td>
       <td>Subscription Number(A1)</td>
       <td>Number of Accounts Subscribed by the Medium's Weibo Account</td>
    </tr>
    <tr>
-      <td></td>
       <td>Number of Micro-blogs related to COVID-19(A3)</td>
       <td>Number of Micro-blogs related to COVID-19 released from 2020/1/1 to 2020/4/8</td>
    </tr>
    <tr>
-      <td>Spreading Scale(B)</td>
+      <td rowspan="3">Spreading Scale(B)</td>
       <td>Follower Number(B1)</td>
       <td>Number of Users Following the Medium's Weibo Account</td>
    </tr>
    <tr>
-      <td></td>
       <td>Average Number of Forward of COVID-19 Related Micro-blogs(B2)</td>
       <td>Average Number of Forward of COVID-19 Related Micro-blogs released from 2020/1/1 to 2020/4/8</td>
    </tr>
    <tr>
-      <td></td>
       <td>Average Number of Comment of COVID-19 Related Micro-blogs(B3)</td>
       <td>Average Number of Comment of COVID-19 Related Micro-blogs released from 2020/1/1 to 2020/4/8</td>
    </tr>
    <tr>
-      <td>Ability to Lead Opinions(C)</td>
+      <td rowspan="3">Ability to Lead Opinions(C)</td>
       <td>Average Number of Like of COVID-19 Related Micro-blogs(C1)</td>
       <td>Average Number of Like of COVID-19 Related Micro-blogs released from 2020/1/1 to 2020/4/8</td>
    </tr>
    <tr>
-      <td></td>
       <td>Tendency of Comments(C2)</td>
       <td>How Positive or Negative Comments are Corresponding to the Micro-blogs</td>
    </tr>
    <tr>
-      <td></td>
       <td>Sentiment of Comments(C3)</td>
       <td>How Positive or Negative Comments are in aspect of Sentiment</td>
    </tr>
@@ -68,28 +62,21 @@ tags:
 + 14 national mainstream media  
 <table>
    <tr>
-      <td>Weibo Account</td>
-      <td>Spreading Scale</td>
-      <td></td>
-      <td>Activity</td>
-      <td></td>
-      <td>Ability to Lead Opinion</td>
-      <td></td>
-      <td>Total Score</td>
-      <td>Total Ranking</td>
-      <td>Category</td>
+      <td rowspan="2">Weibo Account</td>
+      <td colspan="2">Spreading Scale</td>
+      <td colspan="2">Activity</td>
+      <td colspan="2">Ability to Lead Opinion</td>
+      <td rowspan="2">Total Score</td>
+      <td rowspan="2">Total Ranking</td>
+      <td rowspan="2">Category</td>
    </tr>
    <tr>
-      <td></td>
       <td>Score</td>
       <td>Ranking</td>
       <td>Score</td>
       <td>Ranking</td>
       <td>Score</td>
       <td>Ranking</td>
-      <td></td>
-      <td></td>
-      <td></td>
    </tr>
    <tr>
       <td>People's Daily</td>
@@ -264,28 +251,21 @@ tags:
 + 18 endemic mainstream media
 <table>
    <tr>
-      <td>Weibo Account</td>
-      <td>Spreading Scale</td>
-      <td></td>
-      <td>Ability to Lead Opinion</td>
-      <td></td>
-      <td>Activity</td>
-      <td></td>
-      <td>Total Score</td>
-      <td>Total Ranking</td>
-      <td>Category</td>
+      <td rowspan="2">Weibo Account</td>
+      <td colspan="2">Spreading Scale</td>
+      <td colspan="2">Ability to Lead Opinion</td>
+      <td colspan="2">Activity</td>
+      <td rowspan="2">Total Score</td>
+      <td rowspan="2">Total Ranking</td>
+      <td rowspan="2">Category</td>
    </tr>
    <tr>
-      <td></td>
       <td>Score</td>
       <td>Ranking</td>
       <td>Score</td>
       <td>Ranking</td>
       <td>Score</td>
       <td>Ranking</td>
-      <td></td>
-      <td></td>
-      <td></td>
    </tr>
    <tr>
       <td>The Beijing News</td>
