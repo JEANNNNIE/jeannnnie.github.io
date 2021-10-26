@@ -28,8 +28,12 @@ If you have a question about using Jekyll, start a discussion on the [Jekyll For
 
 # Usage Notebooks
 
-- [Sample](https://mmistakes.github.io/mm-github-pages-starter/)
-- [Quick start](https://blog.csdn.net/u010234516/article/details/103138868)
-- [Configuration manual](https://blog.csdn.net/yq_forever/article/details/104238235)
+- [Theme (Father project)](https://github.com/mmistakes/minimal-mistakes)  
+  `Must copy and rewrite codes related to what want to revise to change the default setting.`
+  - [Official website](https://mmistakes.github.io/minimal-mistakes/)
+  - [Configuration manual](https://blog.csdn.net/yq_forever/article/details/104238235)
+- [Based instantiated project](https://github.com/mmistakes/mm-github-pages-starter)
+  - [Sample](https://mmistakes.github.io/mm-github-pages-starter/)
+  - [Quick start](https://blog.csdn.net/u010234516/article/details/103138868)
 - [Markdown merge cells](https://www.zhihu.com/question/50267650)
   - [Office table convert to html](http://pressbin.com/tools/excel_to_html_table/index.html)
