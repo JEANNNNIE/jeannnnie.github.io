@@ -15,11 +15,11 @@ title: "Profile"
 + [1]Ping Liu, Zhiwei Yang, **Jingru Chen**, and Xiang Shi. [A Study on Knowledge Maps Effecting on Individual Learning Outcomes in Exploratory Search. Information studies: Theory & Application](https://jeannnnie.github.io/user%20research/kmap_information_retrieval_system). In press
 
 ## WORK EXPERIENCE
-+ Midea Group, Backend Python Developer intern
++ Midea Group, [Backend Python Developer intern](https://jeannnnie.github.io/computer%20techniques/datamix)
 
 ## RESEARCH EXPERIENCE
 + Title: [A study  on Interactive Information Retrieval System on the basis of  Personalized Knowledge Map from the User-based  Cognitive Perspective](https://jeannnnie.github.io/user%20research/kmap_information_retrieval_system), Led by Prof. Ping Liu, supported by the National Natural Science Foundation of China, Team Member
-+ Title: [The Interdisciplinary Project “Cyber-Rumor Control Supported by Big data”, Led by Prof](https://jeannnnie.github.io/computer%20techniques/cyber_rumor_control). Kan Liu funded by the Fundamental Research Funds for the Central Universities, Team Member [🔗](http://39.97.189.74:5000/)
++ Title: [The Interdisciplinary Project “Cyber-Rumor Control Supported by Big data”](https://jeannnnie.github.io/computer%20techniques/cyber_rumor_control), Led by Prof. Kan Liu funded by the Fundamental Research Funds for the Central Universities, Team Member [🔗](http://39.97.189.74:5000/)
 + Title: [Online Homework Management System](https://jeannnnie.github.io/computer%20techniques/homework_management_system), Led by Associate Prof. Zhongyi Hu, Team Member [🔗](https://www.homewk.cn/)
 
 ## COURSE PROJECTS
